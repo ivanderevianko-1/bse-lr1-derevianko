@@ -22,6 +22,10 @@ git clone https://github.com/ivanderevianko-1/bse-lr1-derevianko.git
 cd bse-lr1-derevianko
 ```
 
+## Функціональність
+
+- Додавання завдань
+
 ## Ліцензія
 
 MIT License
