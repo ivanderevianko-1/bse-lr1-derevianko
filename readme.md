@@ -1,25 +1,27 @@
-# README.md
+# BSE LR1 Task Manager
 
-# BSE LR1
-
-Лабораторна робота №1 з Git та GitHub.
-
-## Технології
-
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
-- GitHub Copilot
-
-## Функціональність
-
-- Додавання завдань
-- Робота з Git та GitHub
-- Pull Request
-- AI-генерація коду
+Простий вебзастосунок для додавання та очищення списку завдань.
+Проєкт створений у межах лабораторної роботи №1 з Git та GitHub.
 
 ## Автор
 
-Іван Деревянко
+- **Деревянко Іван**, група ПЗПІ-25-6
+- Email: ivan.derevianko@nure.ua
+
+## Технології
+
+- Мова програмування: JavaScript
+- IDE: Visual Studio Code
+- VCS: Git + GitHub
+- AI-асистент: GitHub Copilot Student
+
+## Встановлення та запуск
+
+```bash
+git clone https://github.com/ivanderevianko-1/bse-lr1-derevianko.git
+cd bse-lr1-derevianko
+```
+
+## Ліцензія
+
+MIT License
