@@ -24,4 +24,11 @@ function calculateTasks(tasksCount) {
     return tasksCount * 2;
 }
 
+function clearTasks() {
+
+    document.getElementById("taskList").innerHTML = "";
+}
+
+
 console.log(calculateTasks(5));
+
